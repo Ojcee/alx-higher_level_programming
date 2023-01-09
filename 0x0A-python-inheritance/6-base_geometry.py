@@ -12,4 +12,3 @@ class BaseGeometry:
             float: The area of this geometry object.
         '''
         raise Exception('area() is not implemented')
-Footer

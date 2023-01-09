@@ -30,4 +30,3 @@ class Square(Rectangle):
             str: A string representation of this geometry object.
         '''
         return '[Square] {:d}/{:d}'.format(self.__size, self.__size)
-Footer
